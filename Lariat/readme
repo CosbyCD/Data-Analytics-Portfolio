@@ -1,0 +1,43 @@
+# Lariat Car Rental — Revenue Analysis & Strategic Scenarios
+**Tools:** Microsoft Excel (Advanced)
+
+---
+
+## Overview
+
+This project analyzes car rental business performance for Lariat across locations, inventory mix, and revenue trends. Using Advanced Excel, three strategic scenarios were developed for 2019 revenue improvement — each with supporting projections, calculations, and full formula transparency preserved throughout.
+
+---
+
+## View the Project
+
+> **Note:** The Excel workbook is too large to preview directly in GitHub.  
+> **[Click here to open the full workbook](https://tinyurl.com/Lariat-Excel-Cosby)**
+
+---
+
+## What's Inside
+
+The workbook contains multiple sheets covering:
+
+- **Source data** — raw car rental performance data across locations and inventory
+- **Inventory growth scenario** — projected revenue increase of $65,734
+- **Location performance reallocation scenario** — analysis of underperforming vs. high-performing locations
+- **Inventory reinvestment scenario** — projected revenue increase of $96,445
+- **Supporting calculations** — all formulas visible and intact for full transparency
+
+---
+
+## Analytical Question
+
+Which strategic levers — inventory growth, location reallocation, or reinvestment — offer the strongest path to revenue improvement, and by how much?
+
+---
+
+## Skills Demonstrated
+
+Advanced Excel · Multi-scenario modeling · Revenue projection · Data storytelling · Formula-driven analysis · Business recommendations
+
+---
+
+*Part of the [Data Analytics Projects](https://github.com/CosbyCD/Data-Analytics-Projects) portfolio.*
