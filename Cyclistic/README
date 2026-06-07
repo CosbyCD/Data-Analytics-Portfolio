@@ -1,0 +1,15 @@
+Cyclistic Bike-Share Marketing Analysis
+Tools: PostgreSQL · R · VBA · Excel · SQL · Tableau (in development)
+Status: Phase 1 complete — Phase 2 in development
+
+View the Published Work
+DocumentLinkAnalysis ReportView on RPubsMethodology & CodeView on RPubs
+
+Note: The HTML files in this folder display as raw code in GitHub. Use the RPubs links above to view the fully rendered reports with visualizations.
+
+
+Project Summary
+Phase 1 delivers an end-to-end ETL pipeline built from scratch — raw CSV data preprocessed through VBA, loaded into a custom-built PostgreSQL data warehouse, analyzed and visualized in R, and published as a full report with documented methodology.
+The introduction of third party temporal data — holidays and weather patterns — to contextualize rider behavior surfaced geospatial questions that R alone could not resolve. Those questions may hold answers with greater impact on the analytical question than Phase 1 was able to offer.
+Phase 2 — In Development: Building a Tableau geospatial pipeline to animate rider behavior and temporal patterns across time and geography — pursuing the questions the temporal data raised but Phase 1 could not answer.
+Analytical question: How do annual members and casual riders use Cyclistic bikes differently, and what does that mean for a conversion-focused marketing strategy?
